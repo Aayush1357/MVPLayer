@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVPLayer</string>
+    <string name="playlist">Playlist</string>
+    <string name="songtitle">Song Title</string>
+    <string name="desc">Artist . Album Title</string>
+    <string name="timestamp1">0:40</string>
+    <string name="songtime">5:47</string>
+</resources>
